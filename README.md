@@ -1,16 +1,16 @@
-# CBTI — 程序员行为类型测试
+# RBTI — 研究者行为类型测试
 
-> Coder Behavior Type Indicator
+> Researcher Behavior Type Indicator
 >
-> 你是 SUDO 还是 NULL？30 道题，测出你的编程人格。
-
-## 在线体验
-
-👉 [点击开始测试](https://cbti.codefather.cn)
+> 一个面向研究人员群体的行为类型测试平台，衍生自程序员行为类型测试 CBTI。
 
 ## 项目简介
 
-CBTI 是一个面向程序员群体的趣味人格测试网站，灵感来自 MBTI 和 [SBTI](https://sbti.unun.dev/)。
+**RBTI** (Researcher Behavior Type Indicator) 是一个面向研究人员群体的行为类型测试网站。
+
+本项目**灵感来源于 [CBTI](https://cbti.codefather.cn)（程序员行为类型测试）**，CBTI 的灵感则来自 **MBTI** 和 **[SBTI](https://sbti.unun.dev/)**。
+
+RBTI 借鉴了 CBTI 的测试框架和算法设计理念，针对不同的研究人员群体进行了适配和定制。
 
 通过 30 道和编程日常相关的选择题，从 **5 大行为模型、15 个维度** 综合分析，匹配出你的编程人格类型。
 
@@ -121,10 +121,16 @@ npm run build
 # 将 out/ 目录部署到 EdgeOne Pages / Vercel / Netlify / Cloudflare Pages 等
 ```
 
+## 致谢
+
+- **CBTI**：本项目的核心灵感来源，感谢 [程序员鱼皮](https://space.bilibili.com/12890453) 创作的原始项目
+- **SBTI**：行为类型测试的设计参考
+- **MBTI**：人格类型理论基础
+
 ## 作者
 
-[程序员鱼皮](https://space.bilibili.com/12890453)
+基于 CBTI 改编，针对研究人员群体定制开发。
 
 ## 声明
 
-本测试仅供娱乐，别拿它当面试、晋升、相亲、跳槽的依据。
+本测试仅供娱乐和研究参考，别拿它当作正式评估的依据。
